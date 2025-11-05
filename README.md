@@ -39,6 +39,6 @@ Estoy abierto a colaborar en equipos que desarrollen videojuegos independientes,
 ---
 
 ## 📫 Contacto  
-- LinkedIn: [linkedin.com/in/MatiasParraga](https://www.linkedin.com/in/matías-párraga-0b7077323)  
 - Email: matias.parraga.trabajo@gmail.com
+- LinkedIn: [linkedin.com/in/MatiasParraga](https://www.linkedin.com/in/matías-párraga-0b7077323)  
 - Itch.io: [MyM_IndieDevelopment.itch.io](https://mym-indiedevelopment.itch.io)
