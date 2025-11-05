@@ -24,9 +24,6 @@ Me especializo en diseño de sistemas de juego, programación en C# (Unity), y e
 | **[Beyond The Illusions]** | Programación · C# · Unity | Una aventura tanto tierna como grotesca donde nuestra percepcion de la realidad ira variando a lo largo de la aventura para lograr superar obstaculos. |
 | **[Fluffy Search]** | Programación · C# · Unity | Un pequeño proyecto desarrollado durante mis estudios de desarrollo de videojuegos, centrado en la implementación de nuevos patrones de diseño y estructuras de código para mejorar la arquitectura del juego. |
 | **[Mapacheff]** | Programacíon · C# · Unity | Proyecto desarrollado para el curso de Diseño de Niveles, centrado en crear una experiencia visualmente atractiva con una curva de aprendizaje fluida a lo largo de múltiples niveles. |
-
-Podés ver cada repositorio haciendo clic en los enlaces arriba.
-
 ---
 
 ## Tecnologías y herramientas  
